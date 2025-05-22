@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/masum-hosen/Frontend-Mentor---Four-card-feature-section-solution)
+- Live Site URL: [Live site URL here](https://coruscating-bunny-27adc6.netlify.app/)
 
 ## My process
 
